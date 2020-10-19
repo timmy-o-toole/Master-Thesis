@@ -7,6 +7,7 @@ import os
 import re # for regular expressions
 import seaborn as sns #for graph in correlation heatmap
 import matplotlib.pyplot as plt
+import openpyxl
 
 
 #%%
@@ -148,7 +149,8 @@ plt.show()
 # get Information on how the stuff has been strcutured
 # Use Function for the correlation of the heatmap
 
-BauCode_Mat = House_Number_Matrix(df, df.BauartCode, df.Baustelle)
+BauCode_Mat = House_Number_Matrix(df, df.BauartCode, df.Baustelle).T
+
 Language_Mat = House_Number_Matrix(df, df.BaustSprache, df.Baustelle)
 
 
@@ -157,7 +159,7 @@ sns.heatmap(Language_Mat, annot=True)
 sns.heatmap(Language_Mat, annot=True)
 
 #%%
-
+adr_df.to_excel('data_adress.xlsx')
 
 
 
