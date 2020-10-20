@@ -1,0 +1,173 @@
+Number;Desc;type
+11;Behelfswohnungen;Wohnen
+12;Mehrfamilienhaeuser;Wohnen
+13;Terrassenhaeuser;Wohnen
+14;Einfamilienhaeuser;Wohnen
+15;Alterswohnungen, Alterssiedlungen;Wohnen
+16;Alterswohnheime;Wohnen
+17;Kinder- und Jugendheime;Wohnen
+18;Studenten- und Lehrlingswohnhe;Wohnen
+19;Reihenhaeuser;Wohnen
+21;Kinderhorte und Kindergaerten;Bildung
+22;Primar- und Sekundarschulen;Bildung
+23;Berufs- und hoehere Fachschulen;Bildung
+24;Mittelschulen und Gymnasien;Bildung
+25;Heilpaedagogische Schulen/Sonderschulen;Bildung
+26;Hochschulen und Universitaeten;Bildung
+27;Bibliotheken und Staatsarchive;Bildung
+28;Forschungsinstitute;Bildung
+31;Lagerhallen;Industrie
+32;Mehrgeschossige Lagerbauten;Industrie
+33;Mechanisierte Lager und Kuehllager;Industrie
+34;Silobauten und Behaelter;Industrie
+35;Verteilzentralen;Industrie
+36;Industriehallen;Industrie
+37;Industrielle Produktionsbauten;Industrie
+38;Betriebs- und Gewerbebauten;Industrie
+39;Atelier und Studio;Industrie
+41;Schuppen und Huetten;Landwirtschaft
+42;Futterlagerraeume, Treibhaeuser ;Landwirtschaft
+43;Stallungen und landwirtschaftl;Landwirtschaft
+44;Tierheime und Veterinaerstation;Industrie
+46;Tierspitaeler;Bildung
+47;Schlachthoefe;Industrie
+48;Jauchegrube;Landwirtschaft
+51;Heizzentralen, Fernwaermeanlage;Uebrige Infrastruktur
+52;Wasseraufbereitungsanlagen;Uebrige Infrastruktur
+53;Kehrichtverbrennungs- und Wied;Uebrige Infrastruktur
+54;Tankanlagen, Tankstellen;Industrie
+55;Masten, Tuerme;Uebrige Infrastruktur
+56;Waerme- und Kaelteverteilanlagen;Uebrige Infrastruktur
+57;Elektrische Verteilanlagen;Uebrige Infrastruktur
+58;Verteilanlagen fuer Trinkwasser;Uebrige Infrastruktur
+59;Autowerkstaetten;Industrie
+61;Ladenbauten;Industrie
+62;Warenhaeuser und Einkaufszentre;Industrie
+63;Buerobauten mit einfachen Anforderungen;Industrie
+64;Buerobauten mit erhoehten Anforderungen;Industrie
+65;Verwaltungsgebaeude und Rechenzentren;Industrie
+66;Gemeindehaeuser, Rathaeuser und ;Industrie
+71;Gerichtsgebaeude;Industrie
+72;Polizeieinsatzgebaeude und Unte;Industrie
+74;Strafvollzugsanstalten;Uebrige Infrastruktur
+75;Wiedereingliederungsstaetten;Uebrige Infrastruktur
+82;Arztpraxen und aerztehaeuser;Bildung
+83;Krankenhaeuser;Bildung
+84;Universitaetskliniken;Bildung
+85;Pflegeheime, Sanatorien und Re;Bildung
+86;Heilbaeder und Spezialinstitute;Bildung
+87;Tagesheime und geschuetzte Werk;Bildung
+111;Restaurationsbetriebe;Industrie
+112;Hotel- und Motelbauten;Industrie
+113;Kantinen;Industrie
+114;Herbergen, Jugendherbergen und;Industrie
+115;Raststaetten, Cafeterias, Tea-Rooms;Industrie
+116;Klubhuetten;Bildung
+117;Berghaeuser;Bildung
+118;Campinganlagen;Bildung
+121;Sportanlagen, Turn- und Mehrzw;Bildung
+122;Tribuenenbauten und Garderobeng;Bildung
+123;Hallen- und Freibaeder;Bildung
+124;Reithallen;Bildung
+125;Bootshaeuser;Bildung
+126;Freizeitzentren und Jugendhaeus;Bildung
+127;Aussenanlagen, Kinderspielplaet;Bildung
+128;Zoologische und botanische Gaer;Bildung
+129;Fitnesscenter/-raum;Bildung
+131;Parkhaeuser und Einstellhallen;Strasse
+132;Strassenverkehrsgebaeude;Uebriger Verkehr
+133;Werkhoefe;Uebriger Verkehr
+134;Busbahnhoefe, Zollanlagen und W;Uebriger Verkehr
+135;Bahnhoefe und Bahnbetriebsbaute;Bahnen
+137;Flughafenbauten;Uebriger Verkehr
+138;Post- und Logistikterminale;Uebriger Verkehr
+139;Garagen / Fertiggaragen;Uebriger Verkehr
+141;Kasernen;Uebrige Infrastruktur
+142;Zeughaeuser;Uebrige Infrastruktur
+143;oeffentliche Zivilschutzanlagen;Uebrige Infrastruktur
+144;Sanitaetsposten und Sanitaetshil;Uebrige Infrastruktur
+146;Zivilschutz-Ausbildungszentren;Uebrige Infrastruktur
+147;Feuerwehrgebaeude;Uebrige Infrastruktur
+148;Militaeranlagen und militaerisch;Uebrige Infrastruktur
+151;Kirchen und Kapellen;Bildung
+152;Kirchgemeindehaeuser;Bildung
+153;Friedhofanlagen;Bildung
+154;Abdankungshallen;Bildung
+155;Krematorien;Bildung
+156;Kloester;Bildung
+161;Ausstellungsbauten;Bildung
+162;Burgen & Schloesser;Bildung
+163;Wohlfahrtshaeuser, Klubhaeuser u;Bildung
+164;Konzertbauten und Theaterbaute;Bildung
+165;Musikpavillons;Bildung
+166;Kino-, Diskothek- und Saalbauten;Industrie
+167;Kongresshaeuser und Festhallen;Bildung
+168;Radio-, Fernseh- und Filmstudi;Kommunikation
+171;Wintergarten;Wohnen
+172;Gartenhaeuser / Pavillons;Wohnen
+173;Swimmingpools, Jacuzzi;Wohnen
+174;Carports und Abstellplaetze;Wohnen
+175;Parkplaetze;Wohnen
+177;oeffentliche WC-Anlagen;Uebrige Infrastruktur
+178;Personenunterstaende;Uebrige Infrastruktur
+211;Strassen;Strasse
+212;Autobahnen;Strasse
+221;Eisenbahnen;Bahnen
+231;Strassenbahnen;Bahnen
+241;Waldwege;Strasse
+242;Flurwege;Strasse
+251;Pisten;Bildung
+261;Freispiegelkanaele, nicht befah;Uebriger Verkehr
+263;Binnenhafenanlagen;Uebriger Verkehr
+264;Werftanlagen;Uebriger Verkehr
+271;Erddaemme;Uebrige Infrastruktur
+311;Kanalisationen innerorts;Uebrige Infrastruktur
+312;Kanalisationen ausserorts;Uebrige Infrastruktur
+313;Kanalisationen fuer Industrieanlagen;Uebrige Infrastruktur
+314;Drainagen;Landwirtschaft
+315;Bauwerke fuer Entwaesserungen;Landwirtschaft
+321;Hochspannungsleitungen;Kommunikation
+322;Signal- und Fernmeldeleitungen;Kommunikation
+323;Gas- und Wasserverteilleitunge;Kommunikation
+324;Fernwaerme-Verteilleitungen;Kommunikation
+326;Zisternen;Industrie
+332;Grundwasserschutz ausserorts;Uebrige Infrastruktur
+341;Inertstoffdeponien;Uebrige Infrastruktur
+342;Reststoffdeponien;Uebrige Infrastruktur
+344;Sondermuelldeponien;Uebrige Infrastruktur
+351;Leitdaemme;Uebrige Infrastruktur
+352;Abfangdaemme;Uebrige Infrastruktur
+353;Deiche und Dammbauten;Uebrige Infrastruktur
+361;Laermschutzmassnahmen;Strasse
+411;Fussgaenger- und Radfahrerbrueck;Strasse
+412;Strassenverkehrsbruecken;Strasse
+413;Eisenbahnbruecken;Bahnen
+431;Stuetzmauern;Strasse
+441;Lawinenverbauungen;Strasse
+451;Tagbautunnels;Strasse
+452;Galerien;Strasse
+461;Wildbachverbauung;Uebrige Infrastruktur
+462;Ufer- und Sohlensicherungen;Uebrige Infrastruktur
+463;Fischteiche;Uebrige Infrastruktur
+464;Flussregulierungen;Uebrige Infrastruktur
+481;Schleusenanlagen;Uebriger Verkehr
+482;Wehranlagen;Uebriger Verkehr
+483;Einlaufbauwerke;Uebriger Verkehr
+485;Uferbefestigungen;Uebrige Infrastruktur
+511;Mechanische Abwasserreinigungs;Uebrige Infrastruktur
+512;Biologische und chemische Abwa;Uebrige Infrastruktur
+521;Regenrueckhaltebecken;Uebrige Infrastruktur
+522;Hochwasserrueckhaltebecken;Uebrige Infrastruktur
+611;Sessellifte und Gondolbahnen;Uebriger Verkehr
+612;Zahnradbahnen;Uebriger Verkehr
+613;Standseilbahnen;Uebriger Verkehr
+614;Luftseilbahnen;Uebriger Verkehr
+621;Richtstrahlanlagen;Kommunikation
+631;Antennanlagen;Kommunikation
+641;Windkraftanlagen;Uebrige Infrastruktur
+651;Hochspannungs-Trafostationen;Uebrige Infrastruktur
+652;Unterwerke;Uebrige Infrastruktur
+661;Silos;Landwirtschaft
+711;Strassentunnel;Strasse
+722;Druckstollen;Uebrige Infrastruktur
+741;Vertikale Schaechte;Uebrige Infrastruktur
